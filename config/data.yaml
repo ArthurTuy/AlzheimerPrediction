@@ -1,0 +1,8 @@
+paths:
+  raw_csv: "data/raw/alzheimers.csv"
+  interim_csv: "data/interim/alz_clean.csv"
+  folds_dir: "data/processed"
+
+kaggle:
+  dataset: "rabieelkharoua/alzheimers-disease-dataset"  
+  file_path: "alzheimers_disease_data.csv"              
